@@ -189,7 +189,8 @@ pytest tests/test_academic_credential_verifier.py -v
 This contract primitive is deployed on **GenLayer Studio (studionet)**:
 
 - **Network:** `studionet`
-- **Contract Address:** `0x85947483ebb765976f016168225535201bfee75f4788ec09c98f11a611840703`
+- **Contract Address:** `0x6Cc42cd004960c4D0E625c68701DE1e6c1b0578B`
+- **Explorer URL:** https://explorer-studio.genlayer.com/address/0x6Cc42cd004960c4D0E625c68701DE1e6c1b0578B
 - **Contract Source:** `contracts/academic_credential_verifier.py`
 - **Verification Status:** Compiled and deployed with active schema generation.
 
