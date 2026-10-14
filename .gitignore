@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing and caches
+.pytest_cache/
+.cache/
+artifacts/
+*.log
+
+# Sensitive environment variables and keys
+.env
+.env.*
+*.pem
+*.key
+*.secret
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
